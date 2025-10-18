@@ -1,0 +1,217 @@
+2025-10-12T13:45:03.121364900
+User: hi
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T13:45:33.561094700
+User: inheritance
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T13:46:00.437494700
+User: what is inheritence
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T13:47:34.162152
+User: what is inheritance
+Bot: Inheritance allows one class to acquire properties and behaviors of another class. 😊
+
+2025-10-12T13:59:20.273728100
+User: inheritance
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T14:00:06.423976600
+User: hello can you explain about encapsulation
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T14:00:43.380398300
+User: explain inheritance
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T14:05:01.464747
+User: inheritance
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T14:05:14.519167200
+User: what is inheritence
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T14:05:27.674741900
+User: what is inheritance
+Bot: Inheritance allows one class to acquire properties and behaviors of another class. 😊
+
+2025-10-12T14:08:19.592213600
+User: inheritance
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-12T14:12:53.864572400
+User: inheritance
+Bot: Inheritance allows one class to acquire properties and behaviors of another class. 😊
+
+2025-10-16T21:13:27.101816200
+User: what is inheritance
+Bot: Inheritance allows one class to acquire properties and behaviors of another class. 😊
+
+2025-10-16T21:13:48.903892700
+User: explain about static keyword
+Bot: The static keyword denotes that a member belongs to the class rather than instances. 😊
+
+2025-10-16T21:14:02.225795200
+User: what is java
+Bot: Java is a high-level, object-oriented programming language developed by Sun Microsystems. 😊
+
+2025-10-16T21:14:20.419689900
+User: tell me about encapsulation
+Bot: Encapsulation hides internal state and behavior, exposing only necessary parts through methods. 😊
+
+2025-10-16T21:15:07.570006100
+User: difference between method overloading and method overriding
+Bot: Exception handling is a mechanism to handle runtime errors using try, catch, finally, and throw. 😊
+
+2025-10-16T21:15:48.289243900
+User: method overloading 
+Bot: Method overriding allows a subclass to provide a specific implementation of a method already defined in its superclass. 😊
+
+2025-10-16T21:15:59.716309300
+User: method overring
+Bot: Method overriding allows a subclass to provide a specific implementation of a method already defined in its superclass. 😊
+
+2025-10-16T22:10:10.868569
+User: hi
+Bot: The this keyword refers to the current object instance. 😊
+
+2025-10-16T22:10:29.565773300
+User: can you explain about java
+Bot: Java is a high-level, object-oriented programming language developed by Sun Microsystems. 😊
+
+2025-10-16T22:11:01.436853100
+User: tell something about classes
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-16T22:11:12.145806700
+User: what is an object
+Bot: The static keyword denotes that a member belongs to the class rather than instances. 😊
+
+2025-10-16T22:11:33.026436200
+User: tell me about inheritence
+Bot: Method overriding allows a subclass to provide a specific implementation of a method already defined in its superclass. 😊
+
+2025-10-16T22:11:43.513137100
+User: tell me about inheritance
+Bot: Inheritance allows one class to acquire properties and behaviors of another class. 😊
+
+2025-10-16T22:15:55.071305200
+User: i want to see my history
+Bot: The static keyword denotes that a member belongs to the class rather than instances. 😊
+
+2025-10-16T22:16:14.435208600
+User: display history
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-16T22:16:20.395149800
+User: histrory
+Bot: Sorry, I don't have an answer for that yet. 😊
+
+2025-10-16T22:16:54.532290800
+User: hi
+Bot: The this keyword refers to the current object instance. 😊
+2025-10-16T22:44:50.383196500
+User: hi
+Bot: The this keyword refers to the current object instance.
+2025-10-16T22:45:43.358657100
+User: explain about oops concept
+Bot: Gemini API call failed: Server returned HTTP response code: 400 for URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDfuCONO-IhUY7tPrz1flcPH7vtZ9LcfCs;
+2025-10-16T22:50:46.991202300
+User: explain about oops concept
+Bot: or
+2025-10-16T22:51:12.185576300
+User: what is oops
+Bot: The static keyword denotes that a member belongs to the class rather than instances.
+2025-10-16T22:52:21.372355300
+User: difference between method overloading and overriding
+Bot: Exception handling is a mechanism to handle runtime errors using try, catch, finally, and throw.
+2025-10-16T22:52:50.091665600
+User: multiple inheritance supported by java
+Bot: Inheritance allows one class to acquire properties and behaviors of another class.
+2025-10-16T22:53:24.003774600
+User: explain about classes and objects
+Bot: Exception handling is a mechanism to handle runtime errors using try, catch, finally, and throw.
+2025-10-16T22:53:33.835895600
+User: what is class
+Bot: The static keyword denotes that a member belongs to the class rather than instances.
+2025-10-16T22:53:38.625496800
+User: class
+Bot: An abstract class can have both abstract and concrete methods and cannot be instantiated.
+2025-10-16T22:59:45.735634600
+User: hello
+Bot: or
+2025-10-16T22:59:49.458068100
+User: hi
+Bot: The this keyword refers to the current object instance.
+2025-10-16T23:00:07.581815500
+User: inheritance
+Bot: Inheritance allows one class to acquire properties and behaviors of another class.
+2025-10-16T23:00:33.960393500
+User: explain about oops concept
+Bot: or
+2025-10-17T20:34:45.362132800
+User: hi
+Bot: The this keyword refers to the current object instance.
+2025-10-17T20:35:05.470258400
+User: explain me about oops concept
+Bot: Method overriding allows a subclass to provide a specific implementation of a method already defined in its superclass.
+2025-10-17T20:35:28.786545500
+User: can you explain about oops concept
+Bot: Gemini API call failed: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDfuCONO-IhUY7tPrz1flcPH7vtZ9LcfCs
+2025-10-17T20:46:51.011964200
+User: can you explain about oops concept
+Bot: Gemini API call failed: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDfuCONO-IhUY7tPrz1flcPH7vtZ9LcfCs
+2025-10-17T20:47:10.550751
+User: what is inheritance
+Bot: Inheritance allows one class to acquire properties and behaviors of another class.
+2025-10-17T20:47:28.526557
+User: explain about polymorphism
+Bot: Polymorphism enables objects to take on many forms, allowing method overriding and overloading.
+2025-10-17T20:56:18.522607300
+User: oops
+Bot: Gemini API call failed: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDfuCONO-IhUY7tPrz1flcPH7vtZ9LcfCs
+2025-10-17T21:01:55.539964700
+User: oops
+Bot: Gemini API call failed: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDfuCONO-IhUY7tPrz1flcPH7vtZ9LcfCs
+2025-10-17T21:11:44.784440400
+User: oops
+Bot: Gemini API call failed: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDqc83-xOIdsNzI85_MJ71Tw9HKjCACRb4
+2025-10-17T21:23:10.558018
+User: oops
+Bot: Gemini API call failed: HTTP 400 → {  "error": {    "code": 400,    "message": "API key not valid. Please pass a valid API key.",    "status": "INVALID_ARGUMENT",    "details": [      {        "@type": "type.googleapis.com/google.rpc.ErrorInfo",        "reason": "API_KEY_INVALID",        "domain": "googleapis.com",        "metadata": {          "service": "generativelanguage.googleapis.com"        }      },      {        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",        "locale": "en-US",        "message": "API key not valid. Please pass a valid API key."      }    ]  }}
+2025-10-17T21:48:50.200151400
+User: oops
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-17T21:52:43.269514200
+User: oops
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-17T21:54:11.232515800
+User: oops
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-17T21:55:25.065959900
+User: oops
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-17T21:55:47.368137200
+User: List models
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-17T21:56:01.093560200
+User: Call ListModels
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-17T22:03:43.156129100
+User: oops
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini-1.5-flash is not found for API version v1alpha, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-17T22:19:49.534209400
+User: oops
+Bot: Gemini API call failed: HTTP 400 → {  "error": {    "code": 400,    "message": "API key not valid. Please pass a valid API key.",    "status": "INVALID_ARGUMENT",    "details": [      {        "@type": "type.googleapis.com/google.rpc.ErrorInfo",        "reason": "API_KEY_INVALID",        "domain": "googleapis.com",        "metadata": {          "service": "generativelanguage.googleapis.com"        }      },      {        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",        "locale": "en-US",        "message": "API key not valid. Please pass a valid API key."      }    ]  }}
+2025-10-18T15:30:34.391161200
+User: oops
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini-1.5-flash is not found for API version v1alpha, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-18T15:35:40.451834
+User: oops
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini-1.5-flash is not found for API version v1alpha, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
+2025-10-18T15:37:07.991232900
+User: oops
+Bot: Gemini API call failed: HTTP 404 → {  "error": {    "code": 404,    "message": "models/gemini-1.5-flash is not found for API version v1alpha, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",    "status": "NOT_FOUND"  }}
